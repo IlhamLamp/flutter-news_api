@@ -1,16 +1,45 @@
-# firstapi_flutter
+<H1 align ="center" > News App</h1>
+<h5  align ="center"> 
+Aplikasi berita indonesia terkini
+</h5>
+<br/>
 
-A new Flutter project.
+- [API](#api)
+- [Fitur](#fitur)
+- [Screenshots](#screenshots)
 
-## Getting Started
+|                   |            |
+| --------------------- | --------------------------|
+| NAMA                  | Ilham Nur Utomo           |
+| NIM                   | 312010129                 |
+| KELAS                 | TI.20.A.1                 |
+| MATA KULIAH           | Pemrograman Mobile (UAS)  |
 
-This project is a starting point for a Flutter application.
+## API
 
-A few resources to get you started if this is your first Flutter project:
+Aplikasi ini menggunakan API dari News API. Berikut saya lampirkan linknya :
+```
+https://newsapi.org/s/indonesia-news-api
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Dengan memilih _region_ dari indonesia, kemudian berfokus pada artikel **Bisnis**, **Olahraga**, dan **Sains**.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br/>
+
+##  Fitur
+
+- [x] Menampilkan berita terbaru
+- [x] Responsif
+- [ ] Mode malam 
+- [ ] API menampilkan gambar 
+
+<br/>
+
+ ##  Screenshots 
+
+![img-1](/.github/assets/1-bisnis.png)
+--- -
+![img-2](/.github/assets/2-olahraga.png)
+--- - 
+![img-3](/.github/assets/3-sains.png)
+--- -
